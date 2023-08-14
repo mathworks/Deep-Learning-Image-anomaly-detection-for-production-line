@@ -14,7 +14,7 @@ Through this demo, you can learn how to try anomaly detection without training d
 This demo include hundreds training and test images. So you can try this now.
 
 You can download the AlexNet support package here:
-https://www.mathworks.com/matlabcentral/fileexchange/59133-neural-network-toolbox-tm--model-for-alexnet-network
+https://www.mathworks.com/matlabcentral/fileexchange/59133-deep-learning-toolbox-model-for-alexnet-network
 
 Copyright 2017-2020 The MathWorks, Inc.
 
